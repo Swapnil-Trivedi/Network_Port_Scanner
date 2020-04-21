@@ -43,3 +43,5 @@ is used to get the total execution time
  - if connection is established we say the port is open and append it to Port_list
  
  ### That completes the simple Port Scanner script using python 
+
+## OUTPUT 
