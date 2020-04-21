@@ -39,6 +39,7 @@ is used to get the total execution time
  
  ```
  is used to make the default time out setting as 1 second
+ time out seconds can vary form some ports but usually 1 second works for a majority of them it can be changed if needed.
  - if connection is established we say the port is open and append it to Port_list
  
  ### That completes the simple Port Scanner script using python 
