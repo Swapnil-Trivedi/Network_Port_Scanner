@@ -45,3 +45,5 @@ is used to get the total execution time
  ### That completes the simple Port Scanner script using python 
 
 ## OUTPUT 
+![](images/output_1.png)
+![](images/output_2.png)
